@@ -10,6 +10,7 @@ exports.config = {
   },
   
   //specs: ['../Tests/BankManagerSimple.spec.js'], 
+   //hi
 
   suites:{
     smoke: ['../Tests/BankManagerSimple.spec.js', '../Tests/demo.spec.js'],
